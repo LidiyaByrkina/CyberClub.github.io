@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "type": "module",
+    "main": "index.js"
+  },
+  "name": "CyberClub",
+  "version": "1.0.0",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.12",
+    "@types/node": "^14.14.35"
+  }
+}
